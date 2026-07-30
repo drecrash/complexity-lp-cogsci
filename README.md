@@ -22,13 +22,13 @@ The point is less to improve programming ability, and more to make sure I know w
 
 **Cognitive Science**
 
-For cognitive science (CS), I'm taking a less structured approach. Every week, I'll try to read, annotate, and summarize 3-7 research papers or academic articles on CS principles and sub-fields. 
+For cognitive science (CS), I'm taking a less structured approach. Every week, I'll try to read, annotate, and summarize 3-7 research papers or academic articles on CS principles and sub-fields. <br>
 *Currently unsure of whether or not to publish these annotations and summaries*
 
 ---
 
 ## Resources
-**Complex Systems:** Thurner, Stefan, Peter Klimek, and Rudolf Hanel, Introduction to the Theory of Complex Systems 
+**Complex Systems:** Thurner, Stefan, Peter Klimek, and Rudolf Hanel, Introduction to the Theory of Complex Systems <br>
 **Linear Programming:** Vanderbei, Linear Programming: Foundations and Extensions
 
 ---
