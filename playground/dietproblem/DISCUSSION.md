@@ -1,4 +1,4 @@
-# Random Project in Week 2 - The Diet Problem with a Twist
+# Random Project in Week 3 - The Diet Problem with a Twist
 
 
 ## Background
