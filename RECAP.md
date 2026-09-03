@@ -1,8 +1,16 @@
 
 # Recap 
-*(7/30/26 - 9/3/26)*
+*Started: 7/30/26*
+
+*Completed: 9/3/26*
+
+---
 
 *See the repo [here](https://github.com/drecrash/complexity-lp-cogsci)*
+
+*See the blog post [here](https://www.andreprakash.com/posts/summer-2026/)*
+
+---
 
 # Prologue
 
