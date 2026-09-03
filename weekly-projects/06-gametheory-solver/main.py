@@ -117,4 +117,4 @@ coin = np.array([
     [-10,10]
 ])
 
-solve_game(coin)
+solve_game(prisoner_dilemma)
